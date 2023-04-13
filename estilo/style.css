@@ -135,6 +135,7 @@ article h2 {
  }
  aside p {
     padding-top: 15px;
+    
  }
 .aprender{
     color: white;
@@ -155,6 +156,7 @@ article h2 {
     list-style-type: '\2714\00A0\00A0';
     list-style-position: inside;
     columns: 2;
+    font-size: 0.9em;
  }
  img.droid { 
     max-width: 350px;
