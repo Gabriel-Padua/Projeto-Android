@@ -183,3 +183,6 @@ div.video > iframe{
     width: 90%;
     height: 90%;
 }
+ aside {
+    font-size: 0.9em;
+ }
